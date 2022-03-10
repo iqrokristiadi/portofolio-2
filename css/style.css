@@ -1,8 +1,16 @@
 .jumbotron img {
-	width: 200px;
+	width: 20%;
 	border-radius: 50%;
 }
 
 .paragraf {
 	text-align: justify;
+}
+
+section {
+	min-height: 420px;
+}
+
+.card-text {
+	text-align: center;
 }
